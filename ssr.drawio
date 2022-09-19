@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T05:49:07.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NEVf_fQUbfV6is1KcKzv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T06:54:23.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wXuQ0PoIIdmwaIggrQBI" version="20.0.1" type="github">
   <diagram id="i3TFm-feYtzfVzxHVhGZ" name="Page-1">
     <mxGraphModel dx="1634" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,12 +29,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-8" value="API&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kl6waVznljFiOYPxmJQ3-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="480" as="sourcePoint" />
-            <mxPoint x="370" y="90" as="targetPoint" />
+            <mxPoint x="480" y="480" as="sourcePoint" />
+            <mxPoint x="330" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -51,18 +51,18 @@
         <mxCell id="Kl6waVznljFiOYPxmJQ3-11" value="API Request" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="160" as="sourcePoint" />
-            <mxPoint x="520" y="170" as="targetPoint" />
+            <mxPoint x="480" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="180" as="sourcePoint" />
+            <mxPoint x="480" y="180" as="sourcePoint" />
             <mxPoint x="360" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-13" value="API Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kl6waVznljFiOYPxmJQ3-12">
           <mxGeometry x="0.2879" y="1" relative="1" as="geometry">
-            <mxPoint x="23" as="offset" />
+            <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -81,24 +81,24 @@
           <mxGeometry x="40" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-19" value="Get JS" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5391" y="5" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.0069" y="-5" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="320" as="sourcePoint" />
-            <mxPoint x="640" y="340" as="targetPoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-20" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kl6waVznljFiOYPxmJQ3-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="480" as="sourcePoint" />
-            <mxPoint x="639.5" y="100" as="targetPoint" />
+            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="239.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-22" value="Return JS" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.5377" y="-5" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="360" as="sourcePoint" />
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
             <mxPoint x="120" y="380" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -112,8 +112,8 @@
             <mxPoint x="120" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kl6waVznljFiOYPxmJQ3-25" value="Execute JS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="390" width="80" height="30" as="geometry" />
+        <mxCell id="Kl6waVznljFiOYPxmJQ3-25" value="Execute JS:&lt;br&gt;SSR Hydration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl6waVznljFiOYPxmJQ3-26" value="TTI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="40" height="40" as="geometry" />
